@@ -28,6 +28,9 @@ This Python application uses the Spotify API to offer personalized music recomme
 
 ## Usage
 Run the script from the command line:
+```
+python index.py
+```
 Follow the on-screen instructions to authenticate and view your top tracks and song recommendations.
 
 ## License
