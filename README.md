@@ -1,10 +1,10 @@
 # Spotify Music Exploration and Analysis Tool
 
 ## Description
-This Python application leverages the Spotify API to offer personalized music recommendations and insights into users' listening habits. It allows users to fetch their top tracks from Spotify and get recommendations for new songs based on their music preferences.
+This Python application uses the Spotify API to offer personalized music recommendations and analyzes users' listening habits. It allows users to get their top tracks from Spotify and get recommendations for new songs based on their music preferences.
 
 ## Features
-- Fetch and display the user's top tracks from Spotify.
+- Retrieve and display the user's top tracks from Spotify.
 - Provide song recommendations based on the user's top tracks.
 - Basic data analysis and visualization of the user's music preferences.
 
@@ -15,7 +15,7 @@ This Python application leverages the Spotify API to offer personalized music re
 - A Spotify account and Spotify Developer credentials (Client ID, Client Secret, and Redirect URI).
 
 ### Setup
-1. Clone or download this repository to your local machine.
+1. Clone or download this repository to your computer.
 2. Install required Python packages:
 3. Set up your Spotify Developer credentials:
 - Visit the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/applications).
