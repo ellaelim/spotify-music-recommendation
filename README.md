@@ -23,8 +23,8 @@ This Python application leverages the Spotify API to offer personalized music re
 - Set the Redirect URI in your application settings.
 
 ### Configuration
-- Open `index.py` in a text editor.
-- Replace `'YOUR_CLIENT_ID'`, `'YOUR_CLIENT_SECRET'`, and `'YOUR_REDIRECT_URI'` with your actual Spotify Developer credentials.
+- Open `keys.csv` in a text editor.
+- Replace `'CLIENT_ID'` and `'CLIENT_SECRET'` with your actual Spotify Developer credentials.
 
 ## Usage
 Run the script from the command line:
