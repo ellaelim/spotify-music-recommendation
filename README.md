@@ -1,4 +1,4 @@
-# Spotify Music Exploration and Analysis Tool
+# Spotify Music Recommendation and Analysis 
 
 ## Description
 This Python application uses the Spotify API to offer personalized music recommendations and analyzes users' listening habits. It allows users to get their top tracks from Spotify and get recommendations for new songs based on their music preferences.
